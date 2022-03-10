@@ -4,14 +4,12 @@
 ## Installation
 
 ```sh
-git clone https://github.com/harrybanda/Rabbit-Coder.git
+https://github.com/Kush134/AR-carrot-game.git
 ```
 
 ```sh
 Open project with Spark AR Studio
 ```
 
-## Try out the effect on facebook camera
-```sh
-https://www.facebook.com/fbcameraeffects/tryit/208527660353698/
-```
+## Try out my effects on instagram search @kushbhargav
+
